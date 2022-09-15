@@ -1,0 +1,2 @@
+foo hey now hello world,
+the odin project is happening!
